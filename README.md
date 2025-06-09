@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jatin Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin9026&label=Profile%20views&color=0e75b6&style=flat" alt="jatin9026" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin9026" alt="jatin9026" /></a> </p>
+
 
 - 🔭 I’m currently working on [E-commerce Website](https://683db0e143dd1e5227680075--neon-liger-3cbfd4.netlify.app/)
 
