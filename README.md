@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jatingupta918306@gmail.com**
 
-- 📄 Know about my experiences [[31/05/25, 3:55:22 PM] Jatin: Resume:https://drive.google.com/file/d/1DHF3JtJYZPh45wY6bX5F2fQZmeA1Amnx/view?usp=sharing]([31/05/25, 3:55:22 PM] Jatin: Resume:https://drive.google.com/file/d/1DHF3JtJYZPh45wY6bX5F2fQZmeA1Amnx/view?usp=sharing)
+- 📄 Know about my experiences Resume:https://drive.google.com/file/d/1DHF3JtJYZPh45wY6bX5F2fQZmeA1Amnx/view?usp=sharing]([31/05/25, 3:55:22 PM] Jatin: Resume:https://drive.google.com/file/d/1DHF3JtJYZPh45wY6bX5F2fQZmeA1Amnx/view?usp=sharing)
 
 - ⚡ Fun fact **Workholic**
 
