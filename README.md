@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jatin Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord" /> </p>
 
 
 
