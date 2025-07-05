@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working on [E-commerce Website](https://683db0e143dd1e5227680075--neon-liger-3cbfd4.netlify.app/)
+- 🔭 I’m currently working on LMS website
 
-- 🌱 I’m currently learning **Express JS**
+- 🌱 I’m currently learning **Reddis**
 
-- 💬 Ask me about **React, Html, Js, Css, Tailwind, Node**
+- 💬 Ask me about **React, Html, Js, Css, Tailwind, Node, Express, MongoDB**
 
 - 📫 How to reach me **jatingupta918306@gmail.com**
 
