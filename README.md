@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jatin Gupta</h1>
-<h3 align="center">🚀 A Passionate Frontend Developer from India</h3>
+<h3 align="center">🚀 A Passionate MERN Developer from India</h3>
 
 ---
 
