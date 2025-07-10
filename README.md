@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 - 👨🏻‍💻 [My Portfolio](https://react-js-portfolio-xi.vercel.app/)
 - 🔭 Currently building an **LMS Platform**
-- 🌱 Learning **Redis** to scale real-time apps
+- 🌱 Learning **SQL** to scale real-time apps
 - 💬 Ask me about: **React, HTML, JavaScript, CSS, Tailwind, Node, Express, MongoDB**
 - 📫 Reach me: **jatingupta918306@gmail.com**
 - 📄 [View My Resume](https://drive.google.com/file/d/1DHF3JtJYZPh45wY6bX5F2fQZmeA1Amnx/view?usp=sharing)
