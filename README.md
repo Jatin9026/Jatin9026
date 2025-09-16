@@ -4,13 +4,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 👨🏻‍💻 [My Portfolio](https://react-js-portfolio-xi.vercel.app/)
 - 🔭 Currently building an **LMS Platform**
 - 🌱 Learning **SQL** to scale real-time apps
 - 💬 Ask me about: **React, HTML, JavaScript, CSS, Tailwind, Node, Express, MongoDB**
 - 📫 Reach me: **jatingupta918306@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1DHF3JtJYZPh45wY6bX5F2fQZmeA1Amnx/view?usp=sharing)
-- ⚡ Fun fact: **I debug faster than I cook noodles 🍜**
   
 
 ---
@@ -53,8 +50,6 @@
 
 ### 🗄️ Database 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-
 ---
 
 ### 🛠️ Developer Tools
