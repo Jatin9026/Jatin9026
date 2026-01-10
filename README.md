@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jatin Gupta</h1>
-<h3 align="center">🚀 A Passionate MERN Developer from India</h3>
+<h3 align="center">🚀 A Passionate FULL STACK Developer from India</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently building an **LMS Platform**
-- 🌱 Learning **SQL** to scale real-time applications
+- 🔭 Currently building an **SAAS PLATFORM**
+- 🌱 Learning **Backend Technologies** to scale applications
 - 💬 Expertise in **React, HTML, JavaScript, CSS, Tailwind, Node, Express, MongoDB**
 - 📫 Reach me at **jatingupta918306@gmail.com**
 
