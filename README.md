@@ -4,10 +4,9 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently building an **SAAS PLATFORM**
-- 🌱 Learning **Backend Technologies** to scale applications
-- 💬 Expertise in **React, HTML, JavaScript, CSS, Tailwind, Node, Express, MongoDB**
-- 📫 Reach me at **jatingupta918306@gmail.com**
+-  Learning **Backend Technologies** to scale applications
+-  Expertise in **React, HTML, JavaScript, CSS, Tailwind, Node, Express, MongoDB**
+-  Reach me at **jatingupta918306@gmail.com**
 
 ---
 
